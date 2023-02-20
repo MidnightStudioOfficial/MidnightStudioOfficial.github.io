@@ -25,7 +25,7 @@ function Footer() {
           <ul>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href="https://github.com/mspronesti"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href="https://www.linkedin.com/in/massimiliano-pronesti/"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href="mailto:massimiliano.pronesti@gmail.com"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -52,7 +52,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href="https://www.instagram.com/__mpronesti"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >

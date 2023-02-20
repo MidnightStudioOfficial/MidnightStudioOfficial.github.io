@@ -29,19 +29,7 @@ function Techstack() {
         [
           <SiCplusplus />,
           <DiPython />,
-          <SiJava/>,
-          <DiJavascript1 />,
-          <DiNodejs />,
-          <DiReact />,
-          <DiMongodb />,
-          <SiScikitlearn />,
-          <SiQiskit />,
-          <SiPytorch />,
-          <SiTensorflow />,
-          <SiFirebase />,
-          <DiSpark />,
-          <DiRust />,
-          <SiGnubash/>         
+          <DiJavascript1 />,        
         ].map(tool => 
           <Col xs={4} md={2} className="tech-icons">
             {tool}

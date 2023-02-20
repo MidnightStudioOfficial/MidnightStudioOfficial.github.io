@@ -14,7 +14,6 @@ function Toolstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       {
         [
-          <SiLinux/>,
           <SiGit/>,
           <SiVisualstudiocode/>,
           <SiVim/>,
