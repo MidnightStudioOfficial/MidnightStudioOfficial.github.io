@@ -22,4 +22,4 @@ function ProductsCards(props) {
     </Card>
   );
 }
-export default ProjectCards;
+export default ProductsCards;
