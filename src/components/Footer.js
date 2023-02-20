@@ -18,14 +18,14 @@ function Footer() {
         <Col md="4"/>
 
         <Col md="4" className="footer-copyright">
-          <h3>Copyright © {year} Massimiliano Pronesti</h3>
+          <h3>Copyright © {year} Animal Studio</h3>
         </Col>
 
         <Col md="4" className="footer-body">
           <ul>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href=""
+                href="https://github.com/AnimalStudio-Official/AnimalStudio-Official.github.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href=""
+                href="https://github.com/AnimalStudio-Official/AnimalStudio-Official.github.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href=""
+                href="https://github.com/AnimalStudio-Official/AnimalStudio-Official.github.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -52,7 +52,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a className="footer-social-icons"
-                href=""
+                href="https://github.com/AnimalStudio-Official/AnimalStudio-Official.github.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
