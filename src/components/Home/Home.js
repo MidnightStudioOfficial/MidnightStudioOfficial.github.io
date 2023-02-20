@@ -20,7 +20,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                {t('Im')}
+                {t('We')}
                 <strong className="main-name">Animal Studio</strong>
               </h1>
 
