@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProductsCards";
+import ProductsCard from "./ProductsCards";
 import Particle from "../Particle";
 
 import bayesnet from "../../assets/Projects/bayesnet.jpg";
